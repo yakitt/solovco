@@ -1,0 +1,32 @@
+body {
+    font-family: sans-serif;
+}
+
+p a{
+    text-decoration: none;
+    color: black;
+}
+
+header{
+    background-color: #2E3983;
+}
+
+.sam{
+    padding: 10px;
+}
+
+h1{
+    text-align: center;
+}
+
+.centerpos{
+    text-align: center;
+}
+
+ul{
+    list-style: url("https://i.ibb.co/4ndfRT48/image-3.png");
+}
+
+ul li{
+    padding-bottom: 10px;
+}
